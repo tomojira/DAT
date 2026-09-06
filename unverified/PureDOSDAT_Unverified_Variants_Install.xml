@@ -1940,13 +1940,13 @@
 	</game>
 	<game name="Spelljammer - Pirates of Realmspace (1992) (Cybertech) (Installation).dosz">
 		<description>Spelljammer - Pirates of Realmspace</description>
-		<comment>The Good Old Days ID Number 2874</comment>
 		<year>1992</year>
 		<developer>Cybertech</developer>
 		<variant>Installation</variant>
-		<link type="media">https://www.goodolddays.net/diskimages/id%2C2874/</link>
-		<rom name="disk1.img" size="1474560" crc="1a17dcd2" md5="b8f93a357d0ec12628a506f8656bcbb8" sha1="f7629fd9b4badd9519c6a0b63654c37d64a7e701"/>
-		<rom name="disk2.img" size="1474560" crc="a17d3e85" md5="fe3cb2fd48ed89825565836324775222" sha1="8773a0a052aa98bb93d804075bfe8963cd800573"/>
+		<comment>The Good Old Days ID Number 1826</comment>
+		<link type="media">https://www.goodolddays.net/en/diskimages/?id=1826</link>
+		<rom name="disk01.img" size="1474560" crc="af50a071" md5="fb44f9d1b2fe577b87d0ce29f9c4b2be" sha1="88013b3be0148614842f9d5fa59f5199875f3462"/>
+		<rom name="disk02.img" size="1474560" crc="33232cc0" md5="9753db623407d5ce6bfc07ad404c6818" sha1="c57a61a4653d413a57e07d0151cf413df798f99f"/>
 	</game>
 	<game name="Stellar 7 (1990) (Dynamix) (Installation, Floppy Version).dosz">
 		<description>Stellar 7</description>
