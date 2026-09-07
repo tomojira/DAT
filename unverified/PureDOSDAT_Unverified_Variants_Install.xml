@@ -421,6 +421,17 @@
 			<track number="1" type="MODE1_RAW" frames="300446" pregap="0" duration="66:45:71" size="706648992" crc="091b9311" md5="daf9884f98d6504c069bc168ea2e43a9" sha1="f7b4b0489cc324b7f6ccc6ad58b9438adbdeb96f"/>
 		</rom>
 	</game>
+	<game name="Dark Sun - Shattered Lands (1993) (SSI) (Installation).dosz">
+		<description>Dark Sun - Shattered Lands</description>
+		<year>1993</year>
+		<developer>SSI</developer>
+		<variant>Installation</variant>
+		<comment>v1.1</comment>
+		<link type="media">https://redump.info/disc/110714</link>
+		<rom name="Dark Sun - Shattered Lands (USA).chd" size="17057664" crc="0d917b34" md5="407790f69973de5fcd4cbd6b883f1f3c" sha1="db1286f07581bc1915fe64f8697f3a47989d4b7d">
+			<track number="1" type="MODE1_RAW" frames="6958" duration="01:32:58" size="16365216" crc="51c73ba7" md5="7d7facb05b07348be101ad5588b1283f" sha1="43c10547200c1d01144058e0035b5fa4baea694a"/>
+		</rom>
+	</game>
 	<game name="Dark Sun - Wake of the Ravager (1994) (SSI) (Installation).dosz">
 		<description>Dark Sun - Wake of the Ravager</description>
 		<comment>Floppies match TDC: Dark Sun- Wake of the Ravager CD v1.1 (1995)(Strategic Simulations, Inc.) [Role-Playing (RPG)]</comment>
