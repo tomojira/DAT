@@ -14832,7 +14832,6 @@
 		<rom name="EGA.DRV" size="33523" crc="8cf73058" md5="25d037c071b729df98b04f93b13df765" sha1="4dd43457566ba047f03dc750e9e9867064b2448a" date="1997-01-14 01:57:44"/>
 		<rom name="FINAL.ACF" size="4362" crc="5e863fef" md5="39943245a7b2218bc3e10e68b50d0700" sha1="0b4a98d506c846ab5648847ec922f6b4d8983ae1" date="1997-01-14 01:57:44"/>
 		<rom name="FINAL.BMA" size="253780" crc="6b665201" md5="064eb191c637d8bcf808d741d2aba27e" sha1="3fde4d54824a1e7388bdfc15a49f8d1b60c6e68d" date="1997-01-14 01:57:44"/>
-		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="GAME.EXE" size="64203" crc="03a4fb85" md5="8e6c89e608516b9e73a3907d6f115de2" sha1="d0f531cc57a4e23b3c713c51813d292790bcac66" date="1997-01-14 01:57:44"/>
 		<rom name="GAME.OVR" size="264086" crc="cf45e84f" md5="818ef75701b3d35ed869c4cda77a0dc8" sha1="c3f559f92641f30a02252504d00e7f99c320c240" date="1997-01-14 01:57:46">
 			<patch data="QlBTMRYOjxYOj4BUPoKSajqIzK5ae4Voervi6QuLT+hFz4UcxWs=" size="264086" crc="8b0be9e2" md5="0954fe21592ec900384df2532025a22e" sha1="bfdf7d6f20967b58c78c6e140f880e899980d968"/>
@@ -14850,6 +14849,7 @@
 		<rom name="P1.SMS" size="5562" crc="869227e4" md5="7124560f7fa588dd2776f88061fa3a46" sha1="beffbc17ca048a4a9be5c87515bc1d2915e55a96" date="1997-01-14 01:57:48"/>
 		<rom name="P3.SMS" size="1794" crc="604012f8" md5="c2db8c8ca0cd5038bf7094082be1d4f4" sha1="cf340073d2a3a407f504256d7da13a0a5b895164" date="1997-01-14 01:57:48"/>
 		<rom name="PIC1.DAX" size="490215" crc="fdd874ff" md5="0f404ed1ef1fa3a2e90dd31a773f6f80" sha1="a76369b916dac3b709372fb92b4ce91a63cd8dc9" date="1997-01-14 01:57:50"/>
+		<rom name="Pool of Radiance Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SAVE/CHRDATA1.SAV" size="510" crc="d31b6123" md5="3caadf3ea53b90e06720f548b4647ca7" sha1="e175bffdbd48afbdd67419c11fa285d4f04a1703" date="1997-01-14 01:57:50"/>
 		<rom name="SAVE/CHRDATA1.THG" size="315" crc="8bed7334" md5="c52342889fff791476684de0737b1c39" sha1="a520ca77b595620901713df045505f8b676af3da" date="1997-01-14 01:57:50"/>
 		<rom name="SAVE/CHRDATA2.EFX" size="9" crc="b9151d7a" md5="3bd1e50911f2afb744e20e2d772be8e9" sha1="8b16fe1eb451075c9ebe609c23c5b35410145794" date="1997-01-14 01:57:50"/>
