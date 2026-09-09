@@ -12188,12 +12188,13 @@
 			CD also matches with TDC#23 entry: Forgotten Realms Archives, The (Silver Edition) (1999)(Interplay Entertainment Corp.) [bin-cue]
 			DoDAT can build this directly from the disc image
 			Also matches with GOG
+			Files are in C:\SAVE to allow transferring saves with Pool of Radiance series
 		</comment>
 		<comment_dosc>Auto-starts and reduces game speed</comment_dosc>
 		<link type="media">https://redump.info/disc/79882</link>
 		<link type="media">https://puredos.github.io/dat-browser/?/Forgotten+Realms+Archives,+The+(Silver+Edition)+(1999)(Interplay+Entertainment+Corp.)+%5Bbin-cue%5D</link>
 		<link type="store">https://www.gog.com/en/game/forgotten_realms_the_archives_collection_two</link>
-		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" date="2024-08-14 02:44:52"/>
+		<rom name="Pool of Radiance Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SAVE/AGUY0.CMP" size="11800" crc="bc086f79" md5="610b2c04c10f229bcd00c6adc76521b2" sha1="ad0090b42294a8065e87a118d5354f543c12afb3" date="1989-01-19 03:53:50"/>
 		<rom name="SAVE/AGUY1.CMP" size="10912" crc="53fdf3c1" md5="963d272c796b5e9d99e2abe309ff0872" sha1="b3a0869bc2e103fe23e0161831a4c427b58fa7f8" date="1989-01-19 03:54:24"/>
 		<rom name="SAVE/AGUY2.CMP" size="9577" crc="e24435a8" md5="f6b7730806104d62cfe844fae6682816" sha1="e0a2d91ac35f918a3774fab009593fa7f883ff70" date="1989-01-19 03:54:58"/>
