@@ -15767,7 +15767,6 @@
 		<rom name="ECL1.DAX" size="31457" crc="ec414317" md5="76b6136d3159de81c4d5748152856a5d" sha1="9f90483202171534b94fc98d931af1c6c5bc434d" date="1990-05-24 08:21:48"/>
 		<rom name="ECL2.DAX" size="62236" crc="3a8a8ec2" md5="00f67037c9709c60c39fef7a07cc9c4f" sha1="e219a45c89b829086c48a60bf15ea1973a0ab1f7" date="1990-07-24 09:04:08"/>
 		<rom name="ECL3.DAX" size="47705" crc="2c4a390c" md5="3f19a905ce91a3ce9915a079c652bb20" sha1="993440988106a8753648a10c70ec4d25d23e561e" date="1990-05-26 12:21:54"/>
-		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="GAME.OVR" size="278528" crc="f217bcd9" md5="09a40eee6d0760f5b3638ab8a9080f87" sha1="14b9f02f690644cc9984c5b8aa5ff1d0e045e878" date="1990-09-28 08:07:48">
 			<patch data="QlBTMQB/jwB/j4AwEpyBckRrpdTSZfjZvBfyusNrlA==" size="278528" crc="f865d2d4" md5="b6795a4a5c9250c4bb5d78e77306c798" sha1="c7867fb855cd59c551dbf3d13375f3c7e548bf47"/>
 		</rom>
@@ -15786,6 +15785,7 @@
 		<rom name="PIC3.DAX" size="51870" crc="6211a231" md5="a4c59847d4806aa65f3d5e6798bde707" sha1="67951b3f9c4c46982a11710de3877d125cefd0ef" date="1990-05-22 03:42:28"/>
 		<rom name="PIC4.DAX" size="22985" crc="5ecf7b71" md5="fb4bc294704bc1e1f02d048d8bf4488d" sha1="cbed406a0399c3d5f9dce42a8bf6ee03950fce91" date="1990-05-22 03:42:38"/>
 		<rom name="PIC5.DAX" size="16920" crc="2ee0bbad" md5="7153f8454b9f51d595844e4258d4cc84" sha1="66a259736ef7aecc97cdaa425c6e5c29837ab407" date="1990-05-22 03:42:48"/>
+		<rom name="Pool of Radiance Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SAVGAMA.DAT" size="5469" crc="52e9f8e2" md5="2151d550efd219278aaf50f93c3a69ea" sha1="d459186d73bec6d25700f898024bc9e231054144" date="1990-05-08 06:00:08"/>
 		<rom name="SKY.DAX" size="2448" crc="7f991ebd" md5="2af1f9441046e9ac39a220d944366cba" sha1="c3b2fef0631a75c413ce60396de3187dc8d8c7e7" date="1989-06-08 08:50:04"/>
 		<rom name="SOUND.DAX" size="14257" crc="3c690193" md5="453e60c3b5f861647ac3f724a1f864b6" sha1="58092da0b8d60bcbe3b165a90996fa406ac4ad4f" date="1990-05-23 10:23:50"/>
