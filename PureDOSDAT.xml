@@ -14891,7 +14891,6 @@
 		<rom name="ECL7.DAX" size="23574" crc="c92d84c2" md5="840c08ac5c0bd93d1b4cfcae43f3c2fe" sha1="93f7a73ab33ad2b648c31cb90ebce23e74933074" date="1988-12-01 05:59:08"/>
 		<rom name="ECL8.DAX" size="24167" crc="6e1cb4b3" md5="445481af0ead3793de882b96dd99989b" sha1="5a7630340c55b9ebca2b0de3eb417e3cdba56aea" date="1988-11-19 05:49:36"/>
 		<rom name="FINAL5.DAX" size="36603" crc="71635c63" md5="1f57e2e58d77697aa76007589576bc48" sha1="9ac475f2dabd657f99784dfd65178fa7d415da4e" date="1988-11-29 04:24:08"/>
-		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="GAME.OVR" size="206105" crc="7e3735da" md5="cfb8387704f6bb517935da09cb11dd66" sha1="31c12ed05c5745459df5e6cbd0369dbcbcf302c5" date="1992-09-04 04:17:14">
 			<patch data="QlBTMRlJixlJi4Bc5YV1AnhAsDwWmOnaNTd+y8Th7Q==" size="206105" crc="e998163c" md5="2ac38b4b35a33dafd375b76957463804" sha1="1f59247a85014a49db3263048a5a61c5646dbad4"/>
 		</rom>
@@ -14951,6 +14950,7 @@
 		<rom name="PIC6.DAX" size="66888" crc="0c2ac4fe" md5="8e7a54f426b46226b43984135b038dd5" sha1="030e72440b90846c253ebb61e90af99eb709ee39" date="1992-08-21 03:46:08"/>
 		<rom name="PIC7.DAX" size="67804" crc="73af47f5" md5="b20259310b2fe183db5b023c7e2a0797" sha1="e4e831af77f0052277342dc1f2e9681db41af2a5" date="1992-08-21 03:47:32"/>
 		<rom name="PIC8.DAX" size="67227" crc="acd1778c" md5="e6751dd61c74eb85600e23451b389d41" sha1="ba488f6c20596c2e49cbae53e0a76384dd8af515" date="1992-08-21 03:48:54"/>
+		<rom name="Pool of Radiance Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="POOL.CFG" size="24" crc="502d6824" md5="652156af80f9e1ec41a4402ce6d8c012" sha1="654acc94b237cb5cfbdabd581c829381233b2948" data="RQ0KUA0KQzpcDQpDOlxTQVZFXA0KRg0K"/>
 		<rom name="RANDCOM.DAX" size="755" crc="d8f20f9c" md5="b6991ff066a3e16545952caf36ec80b7" sha1="6fc96fec8bb011de1894677f4196c44b9453dc44" date="1988-11-03 05:52:40"/>
 		<rom name="SAVGAMA.DAT" size="13137" crc="6ac355ef" md5="bb367dc14bf8433f2cb8a56a996d7737" sha1="469de853547c3b05cad7a6e0a0434379cc566564" date="1988-12-03 12:16:40"/>
