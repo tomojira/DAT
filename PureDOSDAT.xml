@@ -11662,7 +11662,6 @@
 		<rom name="ECL4.DAX" size="31829" crc="3a3e3793" md5="348ac3e208d976f5aaf3a8f5676fc1e6" sha1="1b4b0cfdaa9dde9ecd6788c8536a1325e7d8e74f" date="1991-09-13 07:14:44"/>
 		<rom name="ECL5.DAX" size="27997" crc="027d43e8" md5="77213cf91b3a34bbcba6a41631f551a3" sha1="66c35d6859550dd37c126ce55f62d4c03f1b753d" date="1991-09-13 07:16:12"/>
 		<rom name="ECL6.DAX" size="22197" crc="a7bcb26d" md5="9b9e45caa955e6a715f0676c8f76a406" sha1="b2beee96f0c0566bae9ef90db32772630344f088" date="1991-10-23 08:21:10"/>
-		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="GAME.EXE" size="36603" crc="ee2cd2ed" md5="4d114a4f17545a69375fa4dc035bce84" sha1="e3b9ca26eb29d13c333a7083416f6f45a6f4fd18" date="1991-11-22 07:55:12">
 			<patch data="QlBTMXscgXscgYA8n5IalBRWh1V6n8Xt0izuU3AdsA==" size="36603" crc="c59f7a55" md5="7efcd7ded7a514e74fd7d3b414024760" sha1="89faeac4a07da6081b414c4e8f2101707383a7ac"/>
 		</rom>
@@ -11705,6 +11704,7 @@
 		<rom name="PIC5.DAX" size="43609" crc="5a863710" md5="d9de75c92be7ed831eaa3d533d0588a5" sha1="d5e5f01549e826cc0c4eaa81c8b0fab0cb1a8e4b" date="1991-06-06 14:43:36"/>
 		<rom name="PIC6.DAX" size="57979" crc="aa4bee48" md5="2deaa7c9e6201509d81b01d139afcf0f" sha1="9bba9d7457a7084869c108ef1ddc3b109d5571c7" date="1991-06-06 15:10:10"/>
 		<rom name="RANDCOM.DAX" size="970" crc="c509f3c3" md5="bc07356f081213189d33adcd74e68b20" sha1="eee19539a3dc6faa7c287b5b6e8598cd049cfeb0" date="1989-05-01 09:26:24"/>
+		<rom name="Savage Frontier Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SBLASTER.EXE" size="2759" crc="289f9d8a" md5="330d390f6c3c38d4cb0221ccc9df93f4" sha1="0ac3489441d4a316ebae55ed98d06616ea7e79ca" date="1991-09-11 09:09:48"/>
 		<rom name="SKY.DAX" size="2448" crc="7f991ebd" md5="2af1f9441046e9ac39a220d944366cba" sha1="c3b2fef0631a75c413ce60396de3187dc8d8c7e7" date="1989-06-08 08:50:04"/>
 		<rom name="START.BAT" size="54" crc="07c62e69" md5="ff83a909b507210f4942e337f74c183e" sha1="4b339429a51964bdae68766c96bd92592890e4ee" date="1997-02-26 07:51:10" data="ZWNobyBvZmYNCnN0YXJ0MQ0KaWYgZXJyb3JsZXZlbCAxIGdvdG8gZW5kDQpnbw0KOmVuZA0K"/>
