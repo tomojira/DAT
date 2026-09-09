@@ -20049,7 +20049,6 @@
 		<rom name="CURSOR.DAX" size="132" crc="8387c9ab" md5="b2128cc16655d361d5ab71247196378d" sha1="36e5e9730b182da1f2edc92460bb77776daa40ed" date="1997-01-14 01:11:50"/>
 		<rom name="DUNGCOM.DAX" size="81675" crc="ee61acd2" md5="2b49b90f4cae1f7bb4566ec44ef8a944" sha1="dc4fa2f8d1b3cb8bebf33b67ce41c388567682cf" date="1997-01-14 01:11:50"/>
 		<rom name="ECL1.DAX" size="251712" crc="5df14fda" md5="173b4fa6be1379d8ef94df9f83c6898e" sha1="264bc2f5cd05da859ebeb1a4ced881a8c59995f6" date="1997-01-14 01:11:52"/>
-		<rom name="Forgotten Realms Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="GAME.EXE" size="71971" crc="4a5f5cdf" md5="c90c9191d43fa7d39271d424c268df1a" sha1="fcb4f8423ba726335c858d62b7f0cd33a5c52bba" date="1997-01-14 01:11:52">
 			<patch data="QlBTMSMxgyMxg4AEoIF0fCaQ7rJ8Td9cX0oh0XEx" size="71971" crc="4d7cb2ee" md5="c69e6036da288e3d73e838e3ec395d8e" sha1="86fe6062487e6f94924dc82571d0affaf87b4ef9"/>
 		</rom>
@@ -20066,6 +20065,7 @@
 		<rom name="OVER.DAX" size="111083" crc="4b150022" md5="e9be939817d3cea96c847031196f5e3e" sha1="405da7798e30be9746f9f937996b0dc771cad66f" date="1997-01-14 01:11:54"/>
 		<rom name="PIC1.DAX" size="503785" crc="36b9bf47" md5="3a441593912154ef4919c911063715f2" sha1="d4110691315314f2a1daf950cee81b245fffadef" date="1997-01-14 01:11:56"/>
 		<rom name="PIC1A.DAX" size="462122" crc="16cf30e0" md5="83fb9ec749585a2794bf5280426e5c08" sha1="30d74892173a795a5ed46bcbbe2cfec37d96cb05" date="1997-01-14 01:11:56"/>
+		<rom name="Savage Frontier Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SAVE/CHRDATA1.EFX" size="9" crc="b9151d7a" md5="3bd1e50911f2afb744e20e2d772be8e9" sha1="8b16fe1eb451075c9ebe609c23c5b35410145794" date="1997-01-14 01:11:56"/>
 		<rom name="SAVE/CHRDATA1.SAV" size="510" crc="0f9e8902" md5="c98e8d0b5d51834812485cfdb2e36efd" sha1="dcb577578754e1b0d123d1f2c94e4606c33aaeeb" date="1997-01-14 01:11:56"/>
 		<rom name="SAVE/CHRDATA1.THG" size="315" crc="87be3994" md5="ad3328b3547485e51f00cfab642ea018" sha1="ba472b05a2dfb9e2860d5e89531834a030c928e8" date="1997-01-14 01:11:56"/>
