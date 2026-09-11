@@ -11236,7 +11236,7 @@
 			DoDAT cannot build this directly from the disc image
 			Also matches with GOG (using the embedded patch for FANTASY.EXE)
 		</comment>
-		<comment_dosc>Auto-starts, enables direct mouse, config, General MIDI option, and IPS patch that bypasses copy protection</comment_dosc>
+		<comment_dosc>Auto-starts, reduces game speed, enables direct mouse, config, General MIDI option, and IPS patch that bypasses copy protection</comment_dosc>
 		<link type="media">https://redump.info/disc/82737</link>
 		<link type="media">https://puredos.github.io/dat-browser/?/Fantasy+Empires+v1.1+(1993)(Strategic+Simulations,+Inc.)+%5BStrategy%5D</link>
 		<link type="store">https://www.gog.com/en/game/fantasy_empires</link>
