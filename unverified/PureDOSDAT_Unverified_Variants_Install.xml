@@ -269,6 +269,16 @@
 		<rom name="disk1.img" size="1474560" crc="16e5328e" md5="cb42611481f66a3b75b3b7e3473743ca" sha1="2ffc1ea203c085c9f19feda4241984c4fb594d98"/>
 		<rom name="disk2.img" size="1474560" crc="33d83897" md5="40007d27eb3fac4ca7377ac1d46b76c8" sha1="7ef3a391ce171c344ec50a5968d50b5754e512cb"/>
 	</game>
+	<game name="Blood &amp; Magic (1996) (Tachyon Studios) (Installation).dosz">
+		<description>Blood &amp; Magic</description>
+		<year>1996</year>
+		<developer>Tachyon Studios</developer>
+		<variant>Installation</variant>
+		<link type="media">https://redump.info/disc/46019</link>
+		<rom name="Blood &amp; Magic (USA).chd" size="270063360" crc="ba25d07e" md5="c28b24358f01b43ff8a0de5bd47ab596" sha1="1a502747cba8abc31d138517f0ca38a124905996">
+			<track number="1" type="MODE1_RAW" frames="110291" duration="24:30:41" size="259404432" crc="b7da59ad" md5="db68f9b5db050a7f694512f98156df6f" sha1="1ab84700ed4b5f4b14a3f06b0043325df9bec522"/>
+		</rom>
+	</game>
 	<game name="Bureau 13 (1995) (Take-Two Interactive Software) (Installation).dosz">
 		<description>Bureau 13</description>
 		<year>1995</year>
