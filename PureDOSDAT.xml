@@ -14834,7 +14834,7 @@
 		<rom name="FINAL.BMA" size="253780" crc="6b665201" md5="064eb191c637d8bcf808d741d2aba27e" sha1="3fde4d54824a1e7388bdfc15a49f8d1b60c6e68d" date="1997-01-14 01:57:44"/>
 		<rom name="GAME.EXE" size="64203" crc="03a4fb85" md5="8e6c89e608516b9e73a3907d6f115de2" sha1="d0f531cc57a4e23b3c713c51813d292790bcac66" date="1997-01-14 01:57:44"/>
 		<rom name="GAME.OVR" size="264086" crc="cf45e84f" md5="818ef75701b3d35ed869c4cda77a0dc8" sha1="c3f559f92641f30a02252504d00e7f99c320c240" date="1997-01-14 01:57:46">
-			<patch data="QlBTMRYOjxYOj4BUPoKSajqIzK5ae4Voervi6QuLT+hFz4UcxWs=" size="264086" crc="8b0be9e2" md5="0954fe21592ec900384df2532025a22e" sha1="bfdf7d6f20967b58c78c6e140f880e899980d968"/>
+			<patch data="UEFUQ0gAN/YAAXQAOA8AAnUGRU9G" size="264086" crc="8b0be9e2" md5="0954fe21592ec900384df2532025a22e" sha1="bfdf7d6f20967b58c78c6e140f880e899980d968"/>
 		</rom>
 		<rom name="GEO1.DAX" size="28349" crc="60a7c346" md5="cea94913c6b1122292da94085d3ce1e5" sha1="0fbf06dbf42709d91ac0d08ad3a8055aae3d4476" date="1997-01-14 01:57:46"/>
 		<rom name="IBMSND.COM" size="1657" crc="7401f2c0" md5="857ecef72234650e72015f52b997b7a5" sha1="c0cf4d7ed8d3c743f87cb5f5aea60972489b90e8" date="1997-01-14 01:57:46"/>
