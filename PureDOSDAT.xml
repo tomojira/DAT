@@ -20050,7 +20050,7 @@
 		<rom name="DUNGCOM.DAX" size="81675" crc="ee61acd2" md5="2b49b90f4cae1f7bb4566ec44ef8a944" sha1="dc4fa2f8d1b3cb8bebf33b67ce41c388567682cf" date="1997-01-14 01:11:50"/>
 		<rom name="ECL1.DAX" size="251712" crc="5df14fda" md5="173b4fa6be1379d8ef94df9f83c6898e" sha1="264bc2f5cd05da859ebeb1a4ced881a8c59995f6" date="1997-01-14 01:11:52"/>
 		<rom name="GAME.EXE" size="71971" crc="4a5f5cdf" md5="c90c9191d43fa7d39271d424c268df1a" sha1="fcb4f8423ba726335c858d62b7f0cd33a5c52bba" date="1997-01-14 01:11:52">
-			<patch data="QlBTMSMxgyMxg4AEoIF0fCaQ7rJ8Td9cX0oh0XEx" size="71971" crc="4d7cb2ee" md5="c69e6036da288e3d73e838e3ec395d8e" sha1="86fe6062487e6f94924dc82571d0affaf87b4ef9"/>
+			<patch data="UEFUQ0gABCIAAXRFT0Y=" size="71971" crc="4d7cb2ee" md5="c69e6036da288e3d73e838e3ec395d8e" sha1="86fe6062487e6f94924dc82571d0affaf87b4ef9"/>
 		</rom>
 		<rom name="GAME.OVR" size="310572" crc="42bc2e4e" md5="cd468da73da0de24265eb7ec3f218c34" sha1="54b8f773f206dd836e13d742b6f63f004d02ae7d" date="1997-01-14 01:11:52"/>
 		<rom name="GEO1.DAX" size="29983" crc="1c417a2c" md5="d9fa5f1a96ea3dedf100f3b7e0c1dd97" sha1="b941e79d29a907178935f8843ce5b9d31d39d5b1" date="1997-01-14 01:11:52"/>
