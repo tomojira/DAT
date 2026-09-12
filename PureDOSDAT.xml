@@ -5748,7 +5748,7 @@
 		<rom name="ECL5.DAX" size="24908" crc="71372681" md5="3c5da04115e928b20f1c1878f99f89b1" sha1="1a7546dff903201e6ea6167d54125b4dba29e871" date="1989-07-28 08:36:36"/>
 		<rom name="ECL6.DAX" size="22175" crc="d0f33299" md5="a507eeccee934670623c3c88aed67f92" sha1="d7b2f7f457eec0c16052d5598792cafe13c350bc" date="1989-06-17 11:50:16"/>
 		<rom name="GAME.OVR" size="272137" crc="cd6e7ae6" md5="8e72e73106aad5c9a9d9f22b245cb501" sha1="e919de8f953d560db7a3ed7acc201f23707b7aba" date="1992-09-09 04:25:00">
-			<patch data="QlBTMQlNjwlNj4BsU4OBdCxivCtW+bvmem7NrjJCNg==" size="272137" crc="bbf9562b" md5="c2454f8d893ae36c7a4af90111ffb568" sha1="e7bbd5de30bbc50be6f09b68ff71944d12cf4b79"/>
+			<patch data="UEFUQ0gASpwAAXRFT0Y=" size="272137" crc="bbf9562b" md5="c2454f8d893ae36c7a4af90111ffb568" sha1="e7bbd5de30bbc50be6f09b68ff71944d12cf4b79"/>
 		</rom>
 		<rom name="GEO2.DAX" size="2879" crc="26f4f362" md5="545e8fe698723c78ba025521a7e6f75c" sha1="377beffdf5f116008285a3f2b8c12e8f0afabeb0" date="1989-06-05 04:12:04"/>
 		<rom name="GEO3.DAX" size="2990" crc="10ba79c5" md5="dc461357901096e9468822032f857391" sha1="9f13a1797748e01f142487cb5d58c2f8e7f712d9" date="1989-06-02 08:56:50"/>
