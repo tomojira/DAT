@@ -21295,7 +21295,7 @@
 		<rom name="ART/TOWN.LBM" size="18516" crc="809c8c0f" md5="efb5934de9d33de2da2ef8e5d002e417" sha1="94970b53cdfebb85f3eb95d8e853345b8040c78f" date="1993-07-02 13:17:34"/>
 		<rom name="ART/TOWN.PCX" size="20758" crc="507c0e98" md5="eabb8c63123bd70b60c71ecc6d096de5" sha1="445b5d5dad788745210b1b66b4fb04cd6b37a8f8" date="1993-01-05 14:03:56"/>
 		<rom name="CKIT.EXE" size="587843" crc="43d7026f" md5="c780c5ef59ec1ad271e84c1769a114f8" sha1="9c69c55c3fd79b19cabeb962ad06bbfccdc08e1b" date="1993-07-02 13:20:42">
-			<patch data="QlBTMUNvokNvooBAYbiBdfCBdJZIE6IwXdQDht5kbwLXQ5IZ8oA=" size="587843" crc="64de8603" md5="974814eafeef9d447cdb4d0af5f59a72" sha1="5e809d867581a595fb2e1d04594c1cce6622f775"/>
+			<patch data="UEFUQ0gDnFEAAXUDnG8AAnQGRU9G" size="587843" crc="64de8603" md5="974814eafeef9d447cdb4d0af5f59a72" sha1="5e809d867581a595fb2e1d04594c1cce6622f775"/>
 		</rom>
 		<rom name="DISK1/ADDQ1.XMI" size="8516" crc="fb6b94e0" md5="68ae41cfdaa6d73ba17d73961314e9ea" sha1="1e839256a072d37789d46585ef06f77e519e16fa" date="1992-02-12 09:41:16"/>
 		<rom name="DISK1/ADDQ2.XMI" size="6390" crc="809739e8" md5="b314ff1283cb37768200f54b85e21463" sha1="8cb8ced8e6131af8b5b3651ace7dace7b2ba466d" date="1992-02-17 12:18:18"/>
