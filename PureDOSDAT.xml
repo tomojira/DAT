@@ -11434,7 +11434,7 @@
 		<rom name="F_EXP.DAT" size="1827" crc="1f71f4bc" md5="868079e419428acd5a647d0ccee3e3e6" sha1="2383c2b7ac2be7d1bf105ee83f158ffaad77cf11" date="1993-05-04 21:49:36"/>
 		<rom name="F_EXP2.DAT" size="389" crc="f2db9162" md5="c27448b8b98ad6cfb0311892b5569173" sha1="1411d506b06699fd3e8843bf09a4db641b27358b" date="1993-05-04 21:51:44"/>
 		<rom name="FANTASY.EXE" size="691697" crc="458aa10b" md5="3c161ee92b0f9ed12730fc00cc2a606c" sha1="1ee49b41bf2c2753de65a0f01d47521656a92d65" date="1993-12-21 15:11:00">
-			<patch data="QlBTMXEaqXEaqYAYfdKaCBC4CHDT3YY1MAuhikVwgZXb" size="691697" crc="303586dd" md5="814812c875485c8dc261de65df4f5350" sha1="e100d921ca8416d0524e45565cc54827ef05c55c"/>
+			<patch data="UEFUQ0gFP8cAAVNFT0Y=" size="691697" crc="303586dd" md5="814812c875485c8dc261de65df4f5350" sha1="e100d921ca8416d0524e45565cc54827ef05c55c"/>
 		</rom>
 		<rom name="FANTEMP.GIF" size="7729" crc="0e55a166" md5="4194a34b4963c96da14b70459b1aa70e" sha1="4419b4adfe36e5bad63fb53237fc8112c6888f7b" date="1993-10-09 15:58:52"/>
 		<rom name="FANTITLE.GIF" size="35609" crc="43cf97cc" md5="0ec2bc13e6a2654cfa4d8ce85c18cbfc" sha1="a547b5c54c9e63f3aac1a2de16de1480924b4abf" date="1993-08-09 12:28:26"/>
