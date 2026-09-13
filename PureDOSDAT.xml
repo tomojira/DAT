@@ -369,6 +369,8 @@
 	</game>
 	<game name="Al-Qadim - The Genie's Curse (1994) (Cyberlore Studios).dosz">
 		<description>Al-Qadim - The Genie's Curse</description>
+		<year>1994</year>
+		<developer>Cyberlore Studios</developer>
 		<comment>
 			Installed v1.1 from Redump-verified CD-ROM: Al-Qadim - The Genie's Curse (USA)
 			Also matches with TDC#23 entry: Al-Qadim- The Genie's Curse v1.1 (1995)(Strategic Simulations, Inc.) [Action, Role-Playing (RPG)]
@@ -376,8 +378,6 @@
 			Also matches with GOG (using the embedded patch for GENIER.EXE)
 		</comment>
 		<comment_dosc>Auto-starts, enables direct mouse, sound config, General MIDI option, and uses IPS patch to bypass copy protection</comment_dosc>
-		<year>1994</year>
-		<developer>Cyberlore Studios</developer>
 		<link type="media">https://redump.info/disc/2887</link>
 		<link type="media">https://puredos.github.io/dat-browser/?/Al-Qadim-+The+Genie%27s+Curse+v1.1+(1995)(Strategic+Simulations,+Inc.)+%5BAction,+Role-Playing+(RPG)%5D</link>
 		<link type="store">https://www.gog.com/en/game/alqadim_the_genies_curse</link>
@@ -405,7 +405,7 @@
 		<rom name="ENGINE/SYSFILE.LIB" size="366201" crc="6e38bd62" md5="d8a7443075cdb11da71afec56f7132b4" sha1="a95951c6a3f17b793dfbc247a9d025f8c157eaae" date="1994-09-06 23:14:40"/>
 		<rom name="GENIE.BAT" size="2740" crc="06344af0" md5="2b7a0f2afd7c1e6fadacbef075a00d04" sha1="6dc3c28dbdf12599d8e597757bf94d4350da87a7" date="1994-05-03 15:33:58"/>
 		<rom name="GENIER.EXE" size="534037" crc="efa56458" md5="2c571c3e0a777860db5a283e9f581d73" sha1="d19585caae1417bfb553365af820d98122f58e98" date="1994-09-12 11:20:26">
-			<patch data="QlBTMRVLnxVLn4BYVN+SZh2wYFmgAj7GUFhkpe/lRU5U" size="534037" crc="50c63e02" md5="20035807fd0f558522bb3af3ad3b41ae" sha1="3a9419590dd67d072ad6532131d9e12127157373"/>
+			<patch data="UEFUQ0gGCrcAAnQMRU9G" size="534037" crc="50c63e02" md5="20035807fd0f558522bb3af3ad3b41ae" sha1="3a9419590dd67d072ad6532131d9e12127157373"/>
 		</rom>
 		<rom name="GM1.BNK" size="23907" crc="6cfff3f4" md5="3e504e9356643dcab5675417da2134d6" sha1="7661125d585b7e4dead1e8bbfcb707f4317d9283" date="1993-06-09 01:03:02"/>
 		<rom name="GM2.BNK" size="24273" crc="8a5f778f" md5="ad44f792b94e736274eab433b10881bf" sha1="e03c1667745bb8c78209ff756880b15b3371aa79" date="1993-06-09 01:03:02"/>
