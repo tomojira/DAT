@@ -5901,7 +5901,7 @@
 		<rom name="DISK3/GEN.TLB" size="28456" crc="3ec94eb9" md5="7d9e76688d7c3b0fdcb1f8634852ecd9" sha1="443ee461abb9d05ba333fe968f85bc7bbe5b95a9" date="1992-04-02 11:22:36"/>
 		<rom name="DISK3/GEO.GLB" size="48114" crc="575aaaf3" md5="af725e9dac0bfa3340394a4d0256611e" sha1="1226c5df8473be488478199d708d3a4bee262bda" date="1992-06-15 10:22:00"/>
 		<rom name="DQK.EXE" size="449664" crc="2e28b9ad" md5="9e197928831617e1e1bd18aada00c1fb" sha1="c7ee806c93c6b5ca328ad5130d7bd7af48f61d65" date="1992-07-27 07:45:54">
-			<patch data="QlBTMQA4mgA4moBYELaSIB+JLHSAgXR0gIEAXFmz9En2b625KC5ddVYm" size="449664" crc="6ff649f4" md5="62d9a4838a43bd0f3f383d5f1fbd8205" sha1="59219a7d5f250c5ccbd41cf4eed16bb8f5b9ca02"/>
+			<patch data="UEFUQ0gDcjcAAXUDkOgAAXQDkScAAQBFT0Y=" size="449664" crc="6ff649f4" md5="62d9a4838a43bd0f3f383d5f1fbd8205" sha1="59219a7d5f250c5ccbd41cf4eed16bb8f5b9ca02"/>
 		</rom>
 		<rom name="Krynn Series.savename" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
 		<rom name="SAVE/SAVGAMA.QSV" size="7965" crc="48af4fad" md5="203043c17537efc53a46a899e435efac" sha1="561aa8316aa264324d5684473b280c86ff7bde59" date="1994-08-04 10:12:02"/>
