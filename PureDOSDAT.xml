@@ -18837,7 +18837,7 @@
 		<rom name="SBPFM.ADV" size="14721" crc="cee0637c" md5="5ce200dccbcb680a4943a8e060120c04" sha1="87a7650974c27251393e6f803cba7c7fb23cb67e" date="1992-04-09 09:24:40"/>
 		<rom name="SF3.EXE" size="446016" crc="02fc7c8d" md5="0b9dae41fd6f5515aacf1fadc885f372" sha1="5cd71cd92b6a5705016db92883d1ec862d9f1fbe" date="1992-11-18 04:04:22"/>
 		<rom name="SJ.EXE" size="206400" crc="8f292f47" md5="2c1a22293c5e46231eb73204b9b9af0f" sha1="e0bee7ac1322179147044c6302cc6b7f60fd37f5" date="1992-11-18 03:52:44">
-			<patch data="QlBTMUBLi0BLi4AQBoWaVAaC0oh4KKsKxk1CRy8pj2xJQDE=" size="206400" crc="424dc60a" md5="484b1f104bf22bf94e13fe045147e388" sha1="a15076d006b30dd80839c00e4f3234c3c892fb3e"/>
+			<patch data="UEFUQ0gAYOUACYpE/yaKXf8rw0VPRg==" size="206400" crc="424dc60a" md5="484b1f104bf22bf94e13fe045147e388" sha1="a15076d006b30dd80839c00e4f3234c3c892fb3e"/>
 		</rom>
 		<rom name="SOUND.EXE" size="15131" crc="29eabed3" md5="5e9050cb2e1443031b86626ad99496c2" sha1="7720cd11e3f486df53a773680d070c2f664f8ad1" date="1992-11-24 09:20:02"/>
 		<rom name="SPELLANM.LIB" size="30440" crc="4cbeec40" md5="dfc59a1683b0ac016b0a75e4ba79af44" sha1="81ee6b1beb697986b3552dbf769337ab9d7d812a" date="1992-08-20 15:42:56"/>
