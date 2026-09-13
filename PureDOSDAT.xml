@@ -11174,7 +11174,7 @@
 		<rom name="DARKMOON/CGA.OVL" size="13271" crc="826be426" md5="ab6824b0abedb18cd13b205a12c8dc71" sha1="20902a3fb33501244577838bd7e68869bebdfec7" date="1991-04-15 05:43:58"/>
 		<rom name="DARKMOON/EGA.OVL" size="10594" crc="1aa6d601" md5="3529afe86758688c82a49ec4b0c14ede" sha1="8f8138c1b45b540e680f182b998f013374ed3450" date="1991-03-06 05:22:44"/>
 		<rom name="DARKMOON/EOB.EXE" size="264480" crc="1054f03f" md5="1bde1dd37b40ab6de8ad11be33a44c5a" sha1="f2bb352fbb1556d03aced278a026886817e4c2df" date="1991-04-29 00:22:02">
-			<patch data="QlBTMSARjyARj4AYYbiBdFxlhXAHIzo/8FQQ0S35uA==" size="264480" crc="3a230770" md5="40c1fe4b7be43cfabd4039ee6b361a1d" sha1="61a22a94b474e12c633571d68101dcbc2fcf2caf"/>
+			<patch data="UEFUQ0gDnEcAAXRFT0Y=" size="264480" crc="3a230770" md5="40c1fe4b7be43cfabd4039ee6b361a1d" sha1="61a22a94b474e12c633571d68101dcbc2fcf2caf"/>
 		</rom>
 		<rom name="DARKMOON/EOBDATA.SAV" size="33101" crc="e8adb270" md5="0f423953de8b07e985c97d611c8af070" sha1="5c32261dc4c1cf3892af4e06e30bea00778589ac" date="1991-03-06 05:23:40"/>
 		<rom name="DARKMOON/EOBDATA1.PAK" size="237691" crc="78280f40" md5="7c5aae5c361dea7b3a14c3c31dec513e" sha1="6094abe7d211fc2909f05e6af60b6e1f2141c84e" date="1991-03-06 05:22:42"/>
