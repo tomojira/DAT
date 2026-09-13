@@ -5969,7 +5969,7 @@
 		<rom name="SPRIT3.DAX" size="14714" crc="837d23cb" md5="59428708736690fad3e7282ec2db71eb" sha1="26d502f5cdb92e5ed5204654c81d9c48b2e54f35" date="1991-01-16 13:07:38"/>
 		<rom name="SPRIT4.DAX" size="7321" crc="faecd4b1" md5="f3c3e94d2354bb1b57752ac3eb8a3c6b" sha1="4c378347158e34625c565f8f9e0ed683f1bd4571" date="1991-01-16 13:07:42"/>
 		<rom name="START.EXE" size="74299" crc="67ac1e7f" md5="576f2958f235922c350881ff408cc1d0" sha1="20780702b596971887330c9e075ab6f5265535ca" date="1992-08-12 13:27:50">
-			<patch data="QlBTMTtDgztDg4B4moWaJWR0kDCDaQ1/HqxnzvIsaA==" size="74299" crc="0d698330" md5="515be0faa9399d9900c2bb4f221a2a6c" sha1="2fef7e0f9d1ca318ec3eaed7d64ef83960970313"/>
+			<patch data="UEFUQ0gAA38AApolRU9G" size="74299" crc="0d698330" md5="515be0faa9399d9900c2bb4f221a2a6c" sha1="2fef7e0f9d1ca318ec3eaed7d64ef83960970313"/>
 		</rom>
 		<rom name="TITLE.DAX" size="68110" crc="1dc22022" md5="06771891e30af176343587973664cdd2" sha1="670e283456cb352737bf4dff56e43ce06b041b64" date="1991-02-08 13:28:16"/>
 		<rom name="VAULTA.DAT" size="12" crc="7bd5c66f" md5="8dd6bb7329a71449b0a1b292b5999164" sha1="2c513f149e737ec4063fc1d37aee9beabc4b4bbf" date="1991-02-19 15:26:26"/>
