@@ -5260,7 +5260,7 @@
 		<rom name="SPRIT2.DAX" size="31307" crc="4e1e12eb" md5="96f23c7644083a06be69949a76ed3429" sha1="06829759ddf3dd41b2ca42b6d34670e64c37502e" date="1989-12-18 09:55:38"/>
 		<rom name="SPRIT3.DAX" size="22578" crc="8a165f04" md5="462259861f42da56ca96f04487d58a4a" sha1="c55cb0eff216f4d0d9df48496f2bc971609bc536" date="1989-12-18 09:55:38"/>
 		<rom name="START.EXE" size="61607" crc="9b8bec5d" md5="660772536e67299af694d822ef61a9ab" sha1="a82e0a0742c9ad43518ae06a33756dc4b07dd1d7" date="1992-08-10 10:27:26">
-			<patch data="QlBTMSdggidggoBUn4F0PGON3FhnuF3si5tUfyai" size="61607" crc="b86758dc" md5="25ff173e10b3b50fe5dd038890ea2555" sha1="42b56a515406ab041ca78646c06d39b7a9bdd2bc"/>
+			<patch data="UEFUQ0gABBYAAXRFT0Y=" size="61607" crc="b86758dc" md5="25ff173e10b3b50fe5dd038890ea2555" sha1="42b56a515406ab041ca78646c06d39b7a9bdd2bc"/>
 		</rom>
 		<rom name="TILES.DAX" size="13488" crc="d622ca98" md5="47a4caeca62acf1f6be2a8266488afff" sha1="f049a52ec03b8f181ae27dd12a6da86e250eff14" date="1989-05-02 12:58:32"/>
 		<rom name="TITLE.DAX" size="57528" crc="59d34245" md5="fe9826124da2a1e39bb7a9409572adef" sha1="4ec4c1faa6ce24179b74ac0c2239a4357e17d6c6" date="1989-12-12 11:55:52"/>
