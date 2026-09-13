@@ -11388,7 +11388,7 @@
 		<rom name="DARKMOON/SOUT5.CPS" size="19589" crc="27934701" md5="7163a62b1968070a6895ec9a92210cfa" sha1="a2287ddd76a295c1cd2b66b4e2509bb7c4579da8" date="1991-11-09 12:59:52"/>
 		<rom name="DARKMOON/SPIDER.CPS" size="6581" crc="75918832" md5="c3c38764311d8fe3192b512d09cebd24" sha1="ef5b97bf5dc37072bad1d620d4eb9fe207c469e3" date="1991-08-15 10:54:24"/>
 		<rom name="DARKMOON/START.EXE" size="333328" crc="8f6b81bd" md5="e006d031c2d854f748947f777e0c59b0" sha1="de49ace3f487e5438ccd08d638c1e4eea8c14aaa" date="1992-01-03 05:49:36">
-			<patch data="QlBTMRArkxArk4A4IMaBdHwNiV/XpNO9gWuPVSjzkQ==" size="333328" crc="d3a4d75f" md5="9dd15b06e1b3114ffbdbe2f2b2f6469b" sha1="197c98df140070b3e5aa0123768167f90f46809f"/>
+			<patch data="UEFUQ0gEdC8AAXRFT0Y=" size="333328" crc="d3a4d75f" md5="9dd15b06e1b3114ffbdbe2f2b2f6469b" sha1="197c98df140070b3e5aa0123768167f90f46809f"/>
 		</rom>
 		<rom name="DARKMOON/STONEGIA.CPS" size="10632" crc="34c98cda" md5="00ffe5467772f62bb8d654d798646a19" sha1="73b65c00441e04860d941fdcc9842576e6d4782c" date="1991-11-25 13:37:40"/>
 		<rom name="DARKMOON/STREET1.CPS" size="13961" crc="cb104fdd" md5="f74c4cbbd0fd4d3f3e2602202c62a6f1" sha1="bf7e682a275fcce31c0769b31b0c96f800c2a041" date="1991-10-31 06:28:50"/>
